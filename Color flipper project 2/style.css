@@ -1,0 +1,36 @@
+html,body{
+    margin:0;
+    font-family:'Apple Chancery',cursive ;
+}
+#heading{
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 2em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    color:purple;
+}
+#color{
+    float: right;
+    margin-right: 15px;
+}
+#wrap{
+    height: 90%;
+    width: 100%;
+    border-top: 3px solid rgb(194, 144, 241) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#btn{
+    background-color: purple;
+    color: white;
+    padding: 20px 80px;
+    border-radius: 15px;
+    border: 1px solid purple;
+    font-size: 28px;
+    letter-spacing: 5px;
+    cursor: pointer;
+    margin-top:600px;
+}
